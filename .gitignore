@@ -1,2 +1,7 @@
 .ssh
 .bash_history
+.DS_Store
+web/pdf/.DS_Store
+web/images/.DS_Store
+web/.DS_Store
+php/.DS_Store

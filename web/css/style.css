@@ -11,6 +11,9 @@ body {
 	font-family: "Gill Sans", "Gill Sans MT", "Trebuchet MS", sans-serif;
         word-spacing: 0.1em;
 }
+#content p, #content li {
+	font-family: Georgia, serif;
+}
 div#container {
 	background: #fff;
 	border: 2px solid #000;
@@ -68,7 +71,8 @@ h3, h4 {
 	margin-top: 1.5em;
 }
 p {
-	margin: 1em 0;
+	margin: 0.5em 2em 1em 0.5em;
+	line-height: 1.4em;
 }
 .small, div#footer {
 	font-size: 0.75em;

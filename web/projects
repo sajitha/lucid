@@ -1,0 +1,22 @@
+<?php
+$pagetitle = 'Current Projects and Clients';
+require 'head.php';
+?>
+
+<h3>
+<a href="http://www.tolerance.org/">Teaching Tolerance</a>
+</h3>
+<p>
+This nonprofit organization is a project of the Southern Poverty Law Center. Lucid Learning creates weekly classroom activities that are posted on the Teaching Tolerance website. Additionally, Lucid Learning recently worked with Teaching Tolerance to create a teacher’s guide for the HBO Films documentary Sergio.
+</p>
+
+<h3>
+<a href="http://tamilcultureandcivilization.org/">International Institute of Tamil Culture and Civilization</a>
+</h3>
+<p>
+This linguistic society produces a journal every quarter for which Lucid Learning provides editorial services.
+</p>
+
+<?php
+require 'foot.php';
+?>

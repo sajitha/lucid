@@ -1,0 +1,22 @@
+<?php
+$pagetitle = 'Writing Samples';
+require 'head.php';
+?>
+
+<h3>
+Improving Paragraphs: Teacher’s Edition
+</h3>
+<p>
+This lesson comes from a program called Focus on Writing, designed to teach students how to answer essay questions that appear on standardized tests. Each lesson breaks down critical skills and guides students through the steps of writing: prewriting, drafting, revising, and editing.
+</p>
+
+<h3>
+New Neighbors
+</h3>
+<p>
+This is an excerpt from the student edition of Focus on Reading, a comprehensive reading strategy program with fiction and nonfiction passages and standardized test-like questions. One key feature of this program is the leveled text it uses: the same stories and articles are written at several different reading levels so that students of different abilities can all read the same material.
+</p>
+
+<?php
+require 'foot.php';
+?>

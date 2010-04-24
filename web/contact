@@ -1,0 +1,22 @@
+<?php
+$pagetitle = 'Contact';
+require 'head.php';
+?>
+
+<p>
+Lucid Learning LLC<br />
+93 S Jackson St #50960<br />
+Seattle WA 98104-2818<br />
+Phone: +1(646)450-0590<br />
+Tax ID#: 27-2059412
+</p>
+
+<p>
+Contact:
+Sajitha Sivers
+<a href="mailto:saj@lucid.pro">saj@lucid.pro</a>
+</p>
+
+<?php
+require 'foot.php';
+?>

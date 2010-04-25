@@ -90,3 +90,7 @@ img#headshot {
 h1 {
 	font-size: 2.75em;
 }
+img#lightbooks {
+position: inline;
+float: right;
+}

@@ -3,9 +3,8 @@ $pagetitle = 'Lucid Learning';
 require 'head.php';
 ?>
 
-<!-- WHAT IS LUCID LEARNING? -->
+<img id="lightbooks" src="/images/lightbooks.jpg" width="101" height="130" alt="Books" />
 
-<!-- WHY LUCID LEARNING? -->
 <h2>
 Developing curriculum that
 </h2>

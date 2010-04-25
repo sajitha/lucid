@@ -4,12 +4,12 @@
 	border: 0;
 }
 html {
-	background: #9ac;
+	background: #6ac;
 	color: #000;
 }
 body {
 	font-family: "Gill Sans", "Gill Sans MT", "Trebuchet MS", sans-serif;
-        word-spacing: 0.1em;
+    word-spacing: 0.1em;
 }
 #content p, #content li {
 	font-family: Georgia, serif;
@@ -21,14 +21,19 @@ div#container {
 	margin: 0 auto;
 }
 /* COLORS */
-h1, h2, h3, h4 {
-	color: #900;
+h1 {
+	color: black;
+	text-align: center;
+}
+h2, h3, h4 {
+	color: #2ac;
+	text-align: left;
 }
 a, a:visited {
-	color: #006;
+	color: #008;
 }
 ul#header, div#footer, a:hover {
-	background-color: #cfc;
+	background-color: #299;
 }
 
 /* SPACING ADJUSTMENTS */
@@ -47,7 +52,7 @@ ul#header li {
 div#footer {
 	margin-top: 7em;
 	text-align: center;
-	color: #444;
+	color: white;
 }
 ul#header, div#footer {
 	padding: 4px 0;
@@ -83,5 +88,5 @@ img#headshot {
 	margin: 0 0 1em 1em;
 }
 h1 {
-	font-size: 1.75em;
+	font-size: 2.75em;
 }

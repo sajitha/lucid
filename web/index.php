@@ -1,5 +1,5 @@
 <?php
-$pagetitle = 'Lucid Learning - an educational writing company';
+$pagetitle = 'Lucid Learning';
 require 'head.php';
 ?>
 
@@ -7,7 +7,7 @@ require 'head.php';
 
 <!-- WHY LUCID LEARNING? -->
 <h2>
-Lucid Learning develops curriculum that…
+Developing curriculum that
 </h2>
 <ul>
 <li>Breaks down skills into digestible, easy-to-grasp pieces</li>

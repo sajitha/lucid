@@ -10,7 +10,7 @@ require 'head.php';
 Developing curriculum that
 </h2>
 <ul>
-<li>Breaks down skills into digestible, easy-to-grasp pieces</li>
+<li>Breaks down skills into easy-to-grasp pieces</li>
 <li>Promotes critical thinking skills</li>
 <li>Reaches all learners, including English Language Learners and students with special needs</li>
 <li>Is relevant and engaging for students</li>

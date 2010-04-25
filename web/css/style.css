@@ -4,7 +4,7 @@
 	border: 0;
 }
 html {
-	background: #6ac;
+	background: #00BBBB;
 	color: #000;
 }
 body {
@@ -22,7 +22,7 @@ div#container {
 }
 /* COLORS */
 h1 {
-	color: black;
+	color: #0066BB;
 	text-align: center;
 }
 h2, h3, h4 {
@@ -33,7 +33,7 @@ a, a:visited {
 	color: #008;
 }
 ul#header, div#footer, a:hover {
-	background-color: #299;
+	background-color: #99DDCC;
 }
 
 /* SPACING ADJUSTMENTS */

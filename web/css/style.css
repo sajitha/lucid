@@ -8,11 +8,11 @@ html {
 	color: #000;
 }
 body {
-	font-family: "Gill Sans", "Gill Sans MT", "Trebuchet MS", sans-serif;
+	font-family: "Arial Narrow", sans-serif;
     word-spacing: 0.1em;
 }
 #content p, #content li {
-	font-family: Georgia, serif;
+	font-family: Arial Narrow, sans-serif;
 }
 div#container {
 	background: #fff;

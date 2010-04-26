@@ -1,5 +1,5 @@
 <?php
-$pagetitle = 'About Lucid Learning';
+$pagetitle = 'About The Founder';
 require 'head.php';
 ?>
 
